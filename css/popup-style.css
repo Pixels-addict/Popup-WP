@@ -7,7 +7,7 @@
     top:0px;
     left:0px;
     background:rgba(0,0,0,0.75);
-	z-index:9999;
+    z-index:9999;
 }
  
 /* Inner */
@@ -24,7 +24,7 @@
     border-radius:3px;
     background:#fff;
     z-index:9999;
-overflow:inherit;
+    overflow:inherit;
 }
  
 /* Close Button */
@@ -46,7 +46,7 @@ overflow:inherit;
     text-align:center;
     line-height:100%;
     color:#fff;
-	z-index:9999;
+    z-index:9999;
 }
  
 .popup-close:hover {
