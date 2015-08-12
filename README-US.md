@@ -8,3 +8,5 @@ This plugin is designed for people who know the basics of how the WordPress CMS.
 <h5>Why this plugin is fully customisable ?</h5>
 This plugin is made for people who wants to develop their own popup style. More precisely, <strong>Popup generator</strong> will give you all the javascript and jQuery's key to develop your own Popup. This mean that you will use this plugin like a basis which on you will develop your own CSS style.<br> 
 
+To see how to use this function with HTML go here and see the tutorial >>> <http://www.pixels-addict.fr/web/creer-ses-propres-popup-sans-plugin-sur-wordpress/>
+
